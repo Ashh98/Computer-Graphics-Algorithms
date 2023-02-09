@@ -7,3 +7,5 @@ This repo is to document my studies and implementations of Computer Graphics con
 - Line Slope Method - 2D Line Drawing
 - Digital Differential Analyser Algorithm - 2D Line Drawing
 - Bresenham's Line Algorithm - 2D Line Drawing
+- Midpoint Algorithm for Circles - 2D Circle Drawing
+
